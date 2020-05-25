@@ -4,8 +4,11 @@
 
 #### This project consists of three infrastructure elements parts: 
 #### 1. Data Transformer
-#### - We will create a Kinesis Firehose Delivery Stream which have a lambda function that transforms therecord and streams it into an S3 bucket. 
-#### - 
+####        - We will create a Kinesis Firehose Delivery Stream which have a lambda function that transforms the records and streams it into an S3 bucket. 
+#### 2. Data Collector 
+####        - We will write a lambda function to get stock price data and place it into the delivery (DataTransformer).
+#### 3. Data Analyzer
+####        - We will use AWS Athena to gain insight into our streamed data.
 
 
 
