@@ -1,9 +1,11 @@
 # Streaming-Finance-Data-with-AWS-Lambda
 
-### The project is aimed to use lambda function to generate near real time finance data records for downstream processing and interactive querying. 
+#### The project is aimed to use lambda function to generate near real time finance data records for downstream processing and interactive querying. 
 
-### This project consists of three parts: 
-      Infrastructure 
+#### This project consists of three infrastructure elements parts: 
+#### 1. Data Transformer
+####     - We will create a Kinesis Firehose Delivery Stream which have a lambda function that transforms therecord and streams it into an S3 bucket. 
+#### - 
 
 
 
