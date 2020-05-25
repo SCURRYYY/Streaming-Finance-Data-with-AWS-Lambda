@@ -4,7 +4,7 @@
 
 #### This project consists of three infrastructure elements parts: 
 #### 1. Data Transformer
-####     - We will create a Kinesis Firehose Delivery Stream which have a lambda function that transforms therecord and streams it into an S3 bucket. 
+#### - We will create a Kinesis Firehose Delivery Stream which have a lambda function that transforms therecord and streams it into an S3 bucket. 
 #### - 
 
 
