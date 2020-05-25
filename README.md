@@ -10,7 +10,7 @@
 #### 3. Data Analyzer
 ####        - We will use AWS Athena to gain insight into our streamed data.
 
-![Picture1](https://user-images.githubusercontent.com/60529752/82844999-b537ff00-9eb0-11ea-8deb-ea9c8bf69da8.png)
+## ![Picture1](https://user-images.githubusercontent.com/60529752/82844999-b537ff00-9eb0-11ea-8deb-ea9c8bf69da8.png)
 
 
 
